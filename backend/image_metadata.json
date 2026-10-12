@@ -1,0 +1,24 @@
+
+[
+  {
+    "id": "bio_001",
+    "title": "Stages of Mitosis",
+    "subject": "Biology",
+    "tags": ["mitosis", "cell division", "prophase", "metaphase"],
+    "filename": "mitosis.jpg"
+  },
+  {
+    "id": "bio_002",
+    "title": "Human Heart Anatomy",
+    "subject": "Biology",
+    "tags": ["heart", "circulation", "pulmonary artery", "anatomy"],
+    "filename": "human_heart.png"
+  },
+  {
+    "id": "bio_003",
+    "title": "Plant Cell Structure",
+    "subject": "Biology",
+    "tags": ["plant cell", "cell wall", "chloroplast", "cell structure"],
+    "filename": "plant_cell.jpg"
+  }
+]
